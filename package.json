@@ -10,7 +10,7 @@
   "proxy": "https://api.yelp.com/v3/businesses",
   "dependencies": {
     "@react-native-community/masked-view": "0.1.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "^41.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
